@@ -32,10 +32,10 @@ h1 {
 	margin: 10px 10px 10px 0px;
 }
 
-.image-container {
-	padding: 0px;
+#top-image-container,
+#bottom-image-container {
 	margin: 0 auto;
-	clear: both;
+	height: 217.5px;
 }
 
 img {
@@ -55,12 +55,11 @@ img {
 }	
 
 .one-p {
-	margin: 0px 0px 0px 0px;
+	margin: 0px;
 	padding: 50px 30px 10px 30px;
 	text-align: center;
 	font-size: 18px;
 	height: 217.5px;
-	clear: all;
 }
 
 .color-one {
